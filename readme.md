@@ -25,6 +25,6 @@ This project demonstrates a simple REST API using Flask for managing a product c
 ### Steps
 
 1. **Clone the Repository**:
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   
+   git clone  https://github.com/Ty999ll/APItCAT2QN1
+   cd https://github.com/Ty999ll/APItCAT2QN1
